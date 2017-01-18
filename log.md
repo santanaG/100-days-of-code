@@ -36,3 +36,11 @@
 **Thoughts:** I am in serious need of refreshers on HTML and CSS. Eloquent JS site went down for some reason. Has not gone back up since. Wanted to use it to refresh on JS. Will do so when I begin JS/Jquery on FCC
 
 **Link to work:** [No Work to show today](http://www.Google.com)
+
+### Day 2: January 17, 2017
+
+**Today's Progress**: Went through and refreshed a lot of FCCs HTML/CSS. Began Tribute page project. Have read up on a lot of things. had to go back and refresh on Git again, keep forgetting stuff.
+
+**Thoughts:** I will start a book on Git and see how I do. Will attempt to set up a workflow so that I can quickly save all of my work. Still need to learn how to push changes and the like. Need a book and lots of practice on CSS. I want to understand CSS as well as I can before moving on to Bootstrap and other CSS related libraries.
+
+**Link to work:** [Current Progress for Tribute Page](http://codepen.io/santanaG/pen/jyVWXa)
