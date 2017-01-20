@@ -57,3 +57,15 @@
 
 **Link to work:** [Current Progress for Tribute Page](http://codepen.io/santanaG/pen/GrNLzp)
 **Current Book:** [Current Book](http://www.htmlandcssbook.com/)
+
+### Day 4: January 19, 2017
+
+**Today's Progress**: 
+ - 30 minutes watching others code
+ - 1 hour coding projects
+ - 1 hour learning what I need to code projects
+
+**Thoughts:** I did not get as much done as I would have liked. I believe today will be a better day for this. I will now actually start writing down with a lot more detail what I am doing instead of confirming that I have reached some of my goals for the day.
+
+**Link to work:** [Current Progress for Tribute Page](http://codepen.io/santanaG/pen/GrNLzp)
+**Current Book:** [Current Book](http://www.htmlandcssbook.com/)
