@@ -73,18 +73,18 @@
 ### Day 5: January 20th, 2017
 
 **Today's Progress**: 
-	- Read up to page 113 in current book
-	- Finished Tribute Page:
-			- Added window div and removed scroll bars
-			- resized images and added some padding to fit images inside 400px area
-			- Achor linked year to pictures in order to have window div always show the picture relevant to the year clicked
-			- Settled on blue to black and bold for link styling on link to hover
-			- PROBLEM:
-				- Cannot get div to remain a certain size in relation to the rest of the page once width gets under 580px or so
-				- I have given up on the problem and will revisit it in the future, once I get more experience with CSS
-				- I am sure media queries would resolve the issue but I feel there are more organic ways to resolve this
-			- Was unable to get a way for link hover to translate into visited link
-	- Watched [funfunfunction](https://www.youtube.com/watch?v=6HfAdeoq97k)
+ - Read up to page 113 in current book
+ - Finished Tribute Page
+ 	 - Added window div and removed scroll bars
+	 - resized images and added some padding to fit images inside 400px area
+	 - Achor linked year to pictures in order to have window div always show the picture relevant to the year clicked
+	 	 - Settled on blue to black and bold for link styling on link to hover
+		 - PROBLEM
+		   - Cannot get div to remain a certain size in relation to the rest of the page once width gets under 580px or so
+			 - I have given up on the problem and will revisit it in the future, once I get more experience with CSS
+			 - I am sure media queries would resolve the issue but I feel there are more organic ways to resolve this
+		 - Was unable to get a way for link hover to translate into visited link
+ - Watched [funfunfunction](https://www.youtube.com/watch?v=6HfAdeoq97k)
 
 **Thoughts:** I definitely want to come back and visit the tribute page with just CSS/HTML idea once I have a lot more experience. It is not perfect and there were a few things that required more than I could bite but I definitely learned a bit about limitations and constraints in simple HTML/CSS. I am now ready for Bootstrap and other frameworks. I hope they save me a crap-ton of time!
 
