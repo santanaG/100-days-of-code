@@ -90,3 +90,21 @@
 
 **Link to work:** [Jan 20th Final Tribute Page](http://codepen.io/santanaG/pen/RKpxPJ)
 **Current Book:** [HTML & CSS: Design and Build Websites](http://www.htmlandcssbook.com/)
+
+### Day 6: January 21st, 2017
+
+**Today's Progress**:
+	- Made small adjustment to Tribute page to accomodate missed user story requirement
+	- Signed up to #Javascript30 - will start ASAP!
+	- Finished FCC Responsive Design with Bootstrap
+	- Finished FCC jQuery
+	- Read up on Javascript "Closures"
+	- Read up on Javascript pattern "The Module"
+	- Read up on Javascript pattern "Currying"
+	- Read up on JCanvas
+	- Read up on JQuery
+
+**Thoughts:** Though my coding was at a minimal, I learned a lot and feel like tomorrow will be a very productive day. Understanding jQuery loads better than my first time attempting to go through this course. I will definitely use it and Bootstrap to finish my portfolio project now. I also need to get back and finish reading HTML & CSS Design and Build Websites.
+
+**No project work to show today**
+**Did not read a book**
