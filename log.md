@@ -43,12 +43,12 @@
 
 **Today's Progress:**
 	- Made small adjustment to Tribute page to accomodate missed user story requirement
-	- Signed up to Javascript30, will start ASAP
+	- Signed up to Javascript30 and will start ASAP
 	- Finished FCC Responsive Design with Bootstrap
 	- Finished FCC jQuery
-	- Read up on Javascript "Closures"
-	- Read up on Javascript pattern "The Module"
-	- Read up on Javascript pattern "Currying"
+	- Read up on Javascript Closures
+	- Read up on Javascript pattern The Module
+	- Read up on Javascript pattern Currying
 	- Read up on JCanvas
 	- Read up on JQuery
 
