@@ -38,11 +38,12 @@
 
 **Link to Work:** [No Work to show today](http://www.Google.com)  
 **Current Book:** [No book read today](http://www.Google.com)
+
 ### Day 6: January 21st, 2017
 
 **Today's Progress:**
 	- Made small adjustment to Tribute page to accomodate missed user story requirement
-	- Signed up to Javascript30 - will start ASAP
+	- Signed up to Javascript30, will start ASAP
 	- Finished FCC Responsive Design with Bootstrap
 	- Finished FCC jQuery
 	- Read up on Javascript "Closures"
