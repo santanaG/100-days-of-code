@@ -32,7 +32,7 @@
 ### Day 7: January 28th, 2017
 
 **Today's Progress:** 
-	- Completed [Try jQuery](https://www.codeschool.com/courses/try-jquery)
+ - Completed [Try jQuery](https://www.codeschool.com/courses/try-jquery)
 
 **Thoughts:** I had a very distracting week away from my work since I last checked in. I at least finished up Try jQuery though. I am now going to start moving away from codepen as my go to coding place and get a proper development environment going. To that, I have git shell installed and its using powershell on my windows PC, I have sublime as my text editor of choice and I am not sure what else I need. I would imagine chrome dev tools is all I need for now in terms of debugging and the like. Any other considerations I will have to look up. I have not read a single book since I last posted.
 
@@ -42,15 +42,15 @@
 ### Day 6: January 21st, 2017
 
 **Today's Progress:** 
-	- Made small adjustment to Tribute page to accomodate missed user story requirement
-	- Signed up to Javascript30 and will start ASAP
-	- Finished FCC Responsive Design with Bootstrap
-	- Finished FCC jQuery
-	- Read up on Javascript Closures
-	- Read up on Javascript pattern The Module
-	- Read up on Javascript pattern Currying
-	- Read up on JCanvas
-	- Read up on JQuery
+ - Made small adjustment to Tribute page to accomodate missed user story requirement
+ - Signed up to Javascript30 and will start ASAP
+ - Finished FCC Responsive Design with Bootstrap
+ - Finished FCC jQuery
+ - Read up on Javascript Closures
+ - Read up on Javascript pattern The Module
+ - Read up on Javascript pattern Currying
+ - Read up on JCanvas
+ - Read up on JQuery
 
 **Thoughts:** Though my coding was at a minimal, I learned a lot and feel like tomorrow will be a very productive day. Understanding jQuery loads better than my first time attempting to go through this course. I will definitely use it and Bootstrap to finish my portfolio project now. I also need to get back and finish reading HTML & CSS Design and Build Websites.
 
