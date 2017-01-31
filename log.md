@@ -36,7 +36,7 @@
  - Read up on Material Design
  - Read through [materialize.css](http://materializecss.com/) documentation
 
-**Thoughts:** I do not understand [CSS](https://developer.mozilla.org/en-US/docs/Web/CSS). In turn this means I do not understand [normalize.css](http://materializecss.com/). I have spent hours messing around with CSS just to figure out that when it comes time to actually produce, I cannot. I signed up for the long run though so tomorrow I will dig further.
+**Thoughts:** I do not understand [CSS](https://developer.mozilla.org/en-US/docs/Web/CSS). In turn this means I do not understand [materialize.css](http://materializecss.com/). I have spent hours messing around with CSS just to figure out that when it comes time to actually produce, I cannot. I signed up for the long run though so tomorrow I will dig further.
 
 **Link to Work:** [My Portfolio Project Sandbox](http://codepen.io/santanaG/pen/NdjYpy)
 **Current Book:** [No Books](http://www.Google.com)
