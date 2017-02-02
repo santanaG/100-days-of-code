@@ -36,8 +36,8 @@
 
 **Thoughts:** PROGRESS!!! FINALLY PROGRESS!!!
 
-**Link to Work:** [Feb 1st Progress for Portfolio Page](http://codepen.io/santanaG/pen/xgdwXG) 
-**Current Book:** [No Books](http://www.Google.com) 
+**Link to Work:** [Feb 1st Progress for Portfolio Page](http://codepen.io/santanaG/pen/xgdwXG)  
+**Current Book:** [No Books](http://www.Google.com)  
 **Link to Video:** [No Video](http://www.Google.com)
 
 ### Day 8: January 29th, 2017
@@ -49,8 +49,8 @@
 
 **Thoughts:** I do not understand [CSS](https://developer.mozilla.org/en-US/docs/Web/CSS). In turn this means I do not understand [materialize.css](http://materializecss.com/). I have spent hours messing around with CSS just to figure out that when it comes time to actually produce, I cannot. I signed up for the long run though so tomorrow I will dig further.
 
-**Link to Work:** [My Portfolio Project Sandbox](http://codepen.io/santanaG/pen/NdjYpy) 
-**Current Book:** [No Books](http://www.Google.com) 
+**Link to Work:** [My Portfolio Project Sandbox](http://codepen.io/santanaG/pen/NdjYpy)  
+**Current Book:** [No Books](http://www.Google.com)  
 **Link to Video:** [No Video](http://www.Google.com)
 
 ### Day 7: January 28th, 2017
