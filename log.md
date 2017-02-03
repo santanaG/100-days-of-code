@@ -35,7 +35,7 @@
 
 **Thoughts:** I am almost done with this! I feel I have definitely learned a great deal of CSS and HTML. Using frameworks like materialize make it easier to code but at least for me, it has made it TONS easier to look at a particular element that is not behaving as expected and poking at it till it does. Chrome Dev tools is also up there in terms of helpfulness. I love the color coding for elements in particular.
 
-**Link to Work:** [Feb 1st Progress for Portfolio Page](http://codepen.io/santanaG/pen/dNmKQM)  
+**Link to Work:** [Feb 2nd Progress for Portfolio Page](http://codepen.io/santanaG/pen/dNmKQM)  
 **Current Book:** [No Book](http://www.Google.com)  
 **Link to Video:** [No Video](http://www.Google.com)
 
