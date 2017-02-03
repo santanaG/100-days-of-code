@@ -28,6 +28,16 @@
 **Link(s) to work**
 1. [Find the Longest Word in a String](https://www.freecodecamp.com/challenges/find-the-longest-word-in-a-string)
 2. [Title Case a Sentence](https://www.freecodecamp.com/challenges/title-case-a-sentence) -->
+### Day 10: February 2nd, 2017
+
+**Today's Progress:** 
+ - Worked on portfolio page
+
+**Thoughts:** I am almost done with this! I feel I have definitely learned a great deal of CSS and HTML. Using frameworks like materialize make it easier to code but at least for me, it has made it TONS easier to look at a particular element that is not behaving as expected and poking at it till it does. Chrome Dev tools is also up there in terms of helpfulness. I love the color coding for elements in particular.
+
+**Link to Work:** [Feb 1st Progress for Portfolio Page](http://codepen.io/santanaG/pen/dNmKQM)  
+**Current Book:** [No Book](http://www.Google.com)  
+**Link to Video:** [No Video](http://www.Google.com)
 
 ### Day 9: February 1st, 2017
 
@@ -36,7 +46,7 @@
 
 **Thoughts:** PROGRESS!!! FINALLY PROGRESS!!!
 
-**Link to Work:** [Feb 1st Progress for Portfolio Page](http://codepen.io/santanaG/pen/xgdwXG)  
+**Link to Work:** [Feb 1st Progress for Portfolio Page](http://codepen.io/santanaG/pen/xgdwXG)  http://codepen.io/santanaG/pen/dNmKQM
 **Current Book:** [No Books](http://www.Google.com)  
 **Link to Video:** [No Video](http://www.Google.com)
 
