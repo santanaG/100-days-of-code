@@ -46,7 +46,7 @@
 
 **Thoughts:** PROGRESS!!! FINALLY PROGRESS!!!
 
-**Link to Work:** [Feb 1st Progress for Portfolio Page](http://codepen.io/santanaG/pen/xgdwXG)  http://codepen.io/santanaG/pen/dNmKQM
+**Link to Work:** [Feb 1st Progress for Portfolio Page](http://codepen.io/santanaG/pen/xgdwXG)  
 **Current Book:** [No Books](http://www.Google.com)  
 **Link to Video:** [No Video](http://www.Google.com)
 
