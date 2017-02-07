@@ -28,6 +28,17 @@
 **Link(s) to work**
 1. [Find the Longest Word in a String](https://www.freecodecamp.com/challenges/find-the-longest-word-in-a-string)
 2. [Title Case a Sentence](https://www.freecodecamp.com/challenges/title-case-a-sentence) -->
+### Day 11: February 6th, 2017
+
+**Today's Progress:** 
+ - Final Portfolio page version (for now)
+
+**Thoughts:** I was using the portfolio project to experiment too much. I left it in a messy state and decided to stop so I can move on to the next part of FCC. I made sure to complete the user stories though (sort of). I also left it in a messy state of colors.
+
+**Link to Work:** [February 6th Portfolio Page](http://codepen.io/santanaG/pen/dNqPvv)  
+**Current Book:** [No Book](http://www.Google.com)  
+**Link to Video:** [No Video](http://www.Google.com)
+
 ### Day 10: February 2nd, 2017
 
 **Today's Progress:** 
