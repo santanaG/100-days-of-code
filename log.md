@@ -33,7 +33,7 @@
 **Today's Progress:** 
  - Final Portfolio page version (for now)
 
-**Thoughts:** I was using the portfolio project to experiment too much. I left it in a messy state and decided to stop so I can move on to the next part of FCC. I made sure to complete the user stories though (sort of). I also left it in a messy state of colors.
+**Thoughts:** I was using the portfolio project to experiment too much. I left it in a messy state and decided to stop so I can move on to the next part of FCC. I made sure to complete the user stories though (sort of). I also left it in a sad state of colors.
 
 **Link to Work:** [February 6th Portfolio Page](http://codepen.io/santanaG/pen/dNqPvv)  
 **Current Book:** [No Book](http://www.Google.com)  
