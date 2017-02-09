@@ -28,6 +28,28 @@
 **Link(s) to work**
 1. [Find the Longest Word in a String](https://www.freecodecamp.com/challenges/find-the-longest-word-in-a-string)
 2. [Title Case a Sentence](https://www.freecodecamp.com/challenges/title-case-a-sentence) -->
+### Day 13: February 8th, 2017
+
+**Today's Progress:** 
+ - Completed FCC Front End Development Certification: Object Oriented and Functional Programming Section
+ - Watched introduction and first two videos for commandline power user
+ - Read first two chapters of ELoquent Javascript
+**Thoughts:** I have begun reading Eloquent Javascript and will also take on setting up my dev environment 
+
+**Link to Work:** [FCC Map](https://www.freecodecamp.com/challenges/learn-how-free-code-camp-works)  
+**Current Book:** [Eloquent Javascript](http://www.Google.com)  
+**Link to Video:** [WesBos's Connandline Power User Series](https://commandlinepoweruser.com/)
+### Day 12: February 7th, 2017
+
+**Today's Progress:** 
+ - Completed FCC Front End Development Certification: Basic Javascript Section
+
+**Thoughts:** Cannot wait for the challenges! 
+
+**Link to Work:** [FCC Map](https://www.freecodecamp.com/challenges/learn-how-free-code-camp-works)  
+**Current Book:** [No Book](http://www.Google.com)  
+**Link to Video:** [No Video](http://www.Google.com)
+
 ### Day 11: February 6th, 2017
 
 **Today's Progress:** 
