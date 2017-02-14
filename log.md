@@ -28,12 +28,37 @@
 **Link(s) to work**
 1. [Find the Longest Word in a String](https://www.freecodecamp.com/challenges/find-the-longest-word-in-a-string)
 2. [Title Case a Sentence](https://www.freecodecamp.com/challenges/title-case-a-sentence) -->
+## Day 15: February 13th, 2017
+
+**Today's Progress:** 
+ - Programmed with Google Scripts
+ - Read EJS till chapter 4
+ 
+**Thoughts:** Had some serious fun with google scripts. I havent finished but will try to soon. I have to get back to FCC and JS30 though.
+
+**Link to Work:** [Google Scripts](https://github.com/santanaG/googlescripts)  
+**Current Book:** [Eloquent Javascript](http://eloquentjavascript.net/)  
+**Link to Video:** [No Videos](https://google.com)
+
+### Day 14: February 9th, 2017
+
+**Today's Progress:** 
+ - Completed FCC Front End Development Certification: Basic Algorithm Scripting section
+ - Completed FCC Front End Development Certification: JSON APIs and Ajax section
+ 
+**Thoughts:** Algorithm challenges took up a massive amount of time. Did not get around to reading at all. I should really start using FCCs Read-Search-Ask instead of Read-try-tryagainindefinitely. I guess this has to do with my need to want to actually learn this but I am now struggling with understanding when it is okay to just ask for guidance vs soldering on until you figure it out.
+
+**Link to Work:** [FCC Map](https://www.freecodecamp.com/challenges/learn-how-free-code-camp-works)  
+**Current Book:** [Eloquent Javascript](http://eloquentjavascript.net/)  
+**Link to Video:** [WesBos's Connandline Power User Series](https://commandlinepoweruser.com/)
+
 ### Day 13: February 8th, 2017
 
 **Today's Progress:** 
- - Completed FCC Front End Development Certification: Object Oriented and Functional Programming Section
+ - Completed FCC Front End Development Certification: Object Oriented and Functional Programming section
  - Watched introduction and first two videos for commandline power user
  - Read first two chapters of ELoquent Javascript
+
 **Thoughts:** I have begun reading Eloquent Javascript and will also take on setting up my dev environment 
 
 **Link to Work:** [FCC Map](https://www.freecodecamp.com/challenges/learn-how-free-code-camp-works)  
